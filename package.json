@@ -1,0 +1,25 @@
+{
+  "name": "know-someones-location",
+  "version": "1.0.0",
+  "description": "know the location of visitors ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadysadaqah/know-someones-location.git"
+  },
+  "author": "Fady sadaqah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadysadaqah/know-someones-location/issues"
+  },
+  "homepage": "https://github.com/fadysadaqah/know-someones-location#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "iplocation": "^6.1.0",
+    "pg": "^7.12.0"
+  }
+}
