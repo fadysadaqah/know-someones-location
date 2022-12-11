@@ -18,7 +18,7 @@
   "homepage": "https://github.com/fadysadaqah/know-someones-location#readme",
   "dependencies": {
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "iplocation": "^6.1.0",
     "pg": "^7.12.0"
   }
